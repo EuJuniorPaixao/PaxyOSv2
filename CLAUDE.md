@@ -1,11 +1,58 @@
-# MazyOS — Sistema operacional do negócio
+# paxyOS — Junior Paixão
 
-Sua empresa roda em cima desse arquivo. Aqui ficam as regras de operação
-do MazyOS — como o Claude lê o contexto, aprende com correções, mantém
-tudo atualizado e cria skills novas conforme a operação evolui.
+Sistema operacional do negócio. Aqui ficam as regras de operação do
+paxyOS — como o Claude lê o contexto, aprende com correções, mantém tudo
+atualizado e cria skills novas conforme a operação evolui.
 
-Esse arquivo é editável. Quando o `/instalar` rodar, ele complementa o
-final dessa página com as regras específicas do seu negócio.
+## Quem sou
+
+Sou **Junior Paixão**. Implemento sistemas de IA dentro de empresas — e o
+que mais for necessário pro empresário faturar mais. Não vendo curso nem
+teoria: entro, monto o sistema, deixo rodando.
+
+Trabalho sozinho, com freelancers pontuais quando o projeto pede.
+
+## O que é esse workspace
+
+A operação inteira do meu negócio. Duas frentes que se alimentam: os
+projetos de cliente e a minha própria marca. O paxyOS é ao mesmo tempo a
+ferramenta que uso e a vitrine do que eu sei fazer.
+
+**Estrutura de pastas:**
+- `_memoria/` — quem sou, como falo, foco atual
+- `identidade/` — marca paxyOS: cores, fontes, logo, kit de ícones
+- `clientes/` — uma subpasta por cliente, autossuficiente
+- `propostas/` — propostas em rascunho ou enviadas (antes de virar cliente)
+- `marketing/` — meu próprio conteúdo (Instagram, SEO, redes)
+- `saidas/` — emails, análises, documentos pontuais
+- `dados/` — arquivos a analisar (CSV, planilha, PDF)
+- `scripts/` — utilitários (render de imagem, automação)
+- `templates/` — moldes de skill e de identidade
+
+## Foco atual
+
+**Captar clientes novos** é o gargalo. A entrega funciona; o topo do funil
+é irregular. Ao sugerir qualquer coisa, medir por: *isso coloca mais
+empresário qualificado na minha frente?*
+
+## Regras do sistema
+
+- Cliente novo → criar `clientes/<Nome>/` com `briefing.md` (usar `/novo-projeto`)
+- Proposta ainda não fechada → `propostas/`; fechou → move pra `clientes/<Nome>/`
+- Conteúdo próprio → `marketing/conteudo/<tipo>-<tema>-<data>/`
+- Toda peça visual segue `identidade/design-guide.md` — fundo escuro, verde
+  `#5DE391` como único acento, Space Grotesk no título
+- Nunca inventar case, número ou depoimento de cliente. Sem lastro, perguntar.
+
+## Ferramentas conectadas
+
+- [x] GitHub — `EuJuniorPaixao/PaxyOSv2`
+- [ ] Meta (Instagram/Facebook) — pra `/aprovar-post`
+- [ ] Google Ads
+- [ ] Gmail
+- [ ] Google Calendar
+
+*(Marcar conforme for instalando os MCPs)*
 
 ---
 
