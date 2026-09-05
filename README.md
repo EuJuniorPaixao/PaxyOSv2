@@ -102,11 +102,3 @@ carrossel, slide, peça que o sistema gera respeita isso.
 
 `marketing/`, `saidas/` e `scripts/` são o resultado. O sistema produz,
 versiona no GitHub, fica tudo seu.
-
----
-
-## Créditos
-
-PaxyOS é uma versão própria construída a partir do
-[MazyOS](https://github.com/mazzeoia/MazyOS), criado por
-[mazzeoia.com.br](https://mazzeoia.com.br).
